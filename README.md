@@ -8,5 +8,5 @@ Assignment Goals
 
 Grade: 96/100
 
-6/9 - methods placed in the classes that have the data the methods need (averageTempForMonth and totalRainfallFormMaonth should be in ReportList class)
+6/9 - methods placed in the classes that have the data the methods need (averageTempForMonth and totalRainfallFormMaonth should be in ReportList class)  
 3/4 - getters written only when necessary (getReports in ReportList and getDate in DailyWeatherReport)  
